@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@1,500&family=Poppins:ital,wght@0,100;0,200;1,100&family=Roboto:ital,wght@0,900;1,700;1,900&display=swap');
+
+html,
+body {
+    color: blue;
+    font-size: 25px;
+    align-items: center;
+    background-color: black;
+}
+
+footer {
+    color: red;
+    align-items: center;
+}
+
+.burtton {
+    color: #fff;
+    background-color: greenyellow;
+    border: none;
+    height: 60px;
+    line-height: 30px;
+    padding: 0 20px;
+    text-transform: uppercase;
+    font-weight: bold;
+    cursor: pointer;
+
+}
